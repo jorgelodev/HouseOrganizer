@@ -1,6 +1,6 @@
 ﻿namespace HouseOrganizer.Entities
 {
-    public class Item
+    public class Item : Entidade
     {
         public string Nome { get; set; }
     }
